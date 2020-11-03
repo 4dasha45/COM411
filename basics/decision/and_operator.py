@@ -5,4 +5,4 @@ image=input()
 if (voice=="grrr") and (image =="two red eyes"):
    print("there is a scary creature. i should get out of here ")
 else:
-  print("i am little scared but i will continue")
+  print("I am little scared but i will continue")
