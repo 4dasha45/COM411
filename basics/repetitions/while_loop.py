@@ -11,7 +11,8 @@ print("How many cables should i remove")
 cablesnum=int (input())
 removedcabels=0
 while (removedcabels < cablesnum):
- git add . print("removed cables")
+ 
+ print("removed cables")
 removedcabels+=1
 
 
