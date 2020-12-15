@@ -1,6 +1,0 @@
-print("program started")
-print("please enter the ascii code:") 
-ascii_code = abs (int (input ()))
-message = "the character reperesented by the ASCII code {} is:{}." .format(ascii_code, chr(ascii_code))
-print(message)
-print("program ended")
